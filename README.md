@@ -1,4 +1,4 @@
-- Hi, I'm Joshua Becker! I'm a senior at Williamsville East High School, and I've been coding since second grade. I'm constantly working to immerse myself in new technologies as I prepare to enter the world of professional-level software development.
+- Hi, I'm Joshua Becker! I've been coding since second grade, and I'm constantly working to immerse myself in new technologies as I prepare to enter the world of professional-level software development.
 - Check out my projects (more to come) at my homepage: https://joshbdev.com
 - Any further questions => jjbecker121@gmail.com
 <!---
